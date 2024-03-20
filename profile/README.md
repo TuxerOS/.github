@@ -1,2 +1,7 @@
 # TuxerOS
-A 32-Bit operating system written in assembly and C
+A 64-Bit operating System written in C and Assembly.
+
+## What is TuxerOS using?
+- Limine Bootloader
+- GCC
+- Nasm
