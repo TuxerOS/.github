@@ -1,7 +1,8 @@
-# TuxerOS
-A 64-Bit operating System written in C and Assembly.
+# Tuxer Software
+My organization where I host more compicated projects.
 
-## What is TuxerOS using?
-- Limine Bootloader
-- GCC
-- Nasm
+## Current Projects
+My current project are:
+* TuxerOS - A simple Operating System
+* tuxer.org - The Tuxer Software Website
+
